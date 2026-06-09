@@ -1,4 +1,13 @@
-## Hi there 👋
+## Haiii! My name is Vivian / Vivonix!
+
+I'm a silly lil' transfem, coming from Germany!
+
+- I am beginning to learn Rust and I know a bit of HTML/CSS! ^^
+- However I could really use some help for learning Rust... the Rust Learning Book is confusing... ;w;
+- I am looking for what to do... as I don't have anything to do.
+- You can reach me via:<br>
+Discord: vivonix.dc<br>
+Email: not available yet!
 
 <!--
 **Vivonix/Vivonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

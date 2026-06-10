@@ -2,8 +2,7 @@
 
 I'm a silly lil' transfem, coming from Germany!
 
-- I am beginning to learn Rust and I know a bit of HTML/CSS! ^^
-- However I could really use some help for learning Rust... the Rust Learning Book is confusing... ;w;
+- I am beginning to learn ~~Rust~~ Python and I know a bit of HTML/CSS! ^^
 - I am looking for what to do... as I don't have anything to do.
 - You can reach me via:<br>
 Discord: vivonix.dc<br>
